@@ -1,0 +1,15 @@
+[
+  {
+    "nome": "Felipe2",
+    "email": "HondeiFelipe@gmail.com2",
+    "senha": "123",
+    "dados": {},
+    "hash": "$2b$10$iW3mgROX/kmHU89Fe/8PzOMJihRYfJy9sDSlW9CUFSk/ZASVdn4Rq"
+  },
+  {
+    "nome": "Felipe3",
+    "email": "HondeiFelipe@gmail.com3",
+    "senha": "123",
+    "hash": "$2b$10$T4x/o9wki56zErg06oNj1e6IEpIYkQh2qCanH2JVndi3YjGRQaTs6"
+  }
+]
